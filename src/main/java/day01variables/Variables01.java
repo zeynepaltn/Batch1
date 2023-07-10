@@ -62,7 +62,7 @@ public class Variables01 {
         double weightAmip=0.0000000000023;
         System.out.println(weightCell-weightAmip);
 
-
+        System.out.println("token deneme");
 
 
 
